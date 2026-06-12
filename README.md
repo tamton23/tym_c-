@@ -5,8 +5,7 @@
 ![Environment](https://img.shields.io/badge/Environment-Console-lightgrey.svg)
 
 ## 📌 Giới thiệu (Introduction)
-
-Dự án nhỏ này chứa một chương trình C++ mẫu với các cấu trúc vòng lặp lồng nhau (`nested loops`) và câu lệnh điều kiện (`if/else`) phức tạp. Mục đích chính của dự án là để **kiểm tra tư duy logic thuật toán**, tính toán tọa độ và điều khiển luồng dữ liệu để vẽ các họa tiết ma trận (matrix pattern) bằng ký tự trực tiếp trên màn hình Console (Terminal).
+Code nhỏ này chứa một chương trình C++ mẫu với các cấu trúc vòng lặp lồng nhau (`nested loops`) và câu lệnh điều kiện (`if/else`) phức tạp. Mục đích chính của dự án là để **kiểm tra tư duy logic thuật toán**, tính toán tọa độ và điều khiển luồng dữ liệu để vẽ các họa tiết ma trận (matrix pattern) bằng ký tự trực tiếp trên màn hình Console (Terminal).
 
 *Lưu ý: Mã nguồn chi tiết nằm trong tệp `.cpp` đính kèm tại kho lưu trữ này.*
 
